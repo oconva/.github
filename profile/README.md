@@ -14,7 +14,7 @@ We envision a future where any developer, regardless of their available resource
 ## Projects
 
 - [**QvikChat**](https://qvikchat.pkural.ca) - An open-source framework that provides you with a solid foundation to build powerful AI-powered chat service endpoints quickly and efficiently. It includes support for **multiple types of conversations (open-ended, close-ended)**, **chat history**, **response caching**, **authentication**, **information retrieval using Retrieval Augmented Generation (RAG)**, and more.
-- [**Intento**](https://intento.pkural.ca) - Open-source intent recognition framework to allow developers and organizations to create and self-host reliable and performant intent-recognition services powered by Large Language Models (LLMs).
+- [**Intento**](https://intento.pkural.ca) - Open-source intent recognition framework to allow developers and organizations to create and self-host reliable and performant **intent-recognition services** powered by **Large Language Models (LLMs)**.
 
 More projects are under-development and will be released soon once initial testing completes and the project usefulness is validated.
 
